@@ -1,0 +1,24 @@
+{
+  "travelClasses": [
+    {
+      "code": "Any",
+      "title": "Any"
+    },
+    {
+      "code": "E-Class",
+      "title": "Economy Class"
+    },
+    {
+      "code": "PE-Class",
+      "title": "Premium Economy Class"
+    },
+    {
+      "code": "B-Class",
+      "title": "Business Class"
+    },
+    {
+      "code": "F-Class",
+      "title": "First Class"
+    }
+  ]
+}
